@@ -1,4 +1,4 @@
-# profile
+# profile minimal theme for jekyll
 # still in development!!!
 
 ## License
